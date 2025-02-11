@@ -1,4 +1,4 @@
- 🚀Welcome to my Digital playground!I'm Teresia Mkarie --👩‍💻Your next favourite Developer🎊..
+ 🚀Welcome to my Digital playground!I'm Teresia Mkarie --👩‍💻Your next favourite Developer🎊..<br>
 I'm an aspiring software developer with deep love of turning ideas into reality through efficient building and scalable coding. I'm always eager to learn,build,break and innovate.💡🙃 
 🔥🔥Why you should follow my journey‼️
  ✳️Always hungry to learn new tech and push further boundaries.
