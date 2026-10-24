@@ -1,7 +1,7 @@
 # 💫 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8BHi%2C+thanks+for+visiting+my+profile)](https://git.io/typing-svg)
 
-I AM A :
+I AM A :<br>
 • **Full-Stack Developer focused on continuous learning and real-world problem solving** <br>
 • Building across AI, Machine Learning, and Web3<br>
 • Exploring blockchain solutions within the Stellar ecosystem,Nervos-CKB,Starknet with a focus on practical impact  
