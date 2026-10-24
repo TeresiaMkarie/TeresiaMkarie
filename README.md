@@ -41,9 +41,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=felabs1&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=felabs1&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felabs1&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TeresiaMkarie&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TeresiaMkarie&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeresiaMkarie&theme=dark&hide_border=false&layout=compact)
 
 ---
 
