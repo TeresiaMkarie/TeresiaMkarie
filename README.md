@@ -4,8 +4,8 @@
 💻 Full Stack && Blockchain Developer
 🎓 BSc Computer Science  
 
-• **Full-Stack Developer focused on continuous learning and real-world problem solving** 
-• Building across AI, Machine Learning, and Web3
+• **Full-Stack Developer focused on continuous learning and real-world problem solving** <br>
+• Building across AI, Machine Learning, and Web3<br>
 • Exploring blockchain solutions within the Stellar ecosystem,Nervos-CKB,Starknet with a focus on practical impact  
 
 📫 Reach me:  
