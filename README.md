@@ -1,8 +1,5 @@
 # 💫 About Me
-
-👋 Hey there!, I’m **Teresia Mkarie** (`@TeresiaMkarie`)  
-💻 Full Stack && Blockchain Developer
-🎓 BSc Computer Science  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
 
 • **Full-Stack Developer focused on continuous learning and real-world problem solving** <br>
 • Building across AI, Machine Learning, and Web3<br>
