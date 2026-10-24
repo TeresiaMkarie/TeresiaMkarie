@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I’m **Teresia Mkarie** (`@TeresiaMkarie`)  
+👋 Hey there!, I’m **Teresia Mkarie** (`@TeresiaMkarie`)  
 💻 Full Stack && Blockchain Developer
 🎓 BSc Computer Science  
 
