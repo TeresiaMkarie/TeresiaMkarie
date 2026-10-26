@@ -30,7 +30,6 @@ I’m a software developer, AI-native product builder, and technical content cre
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Cairo](https://img.shields.io/badge/Cairo-Starknet-purple?style=for-the-badge)
 
 ## ⛓️ Blockchain Ecosystems
 ![Stellar](https://img.shields.io/badge/Stellar-%23000000.svg?style=for-the-badge&logo=stellar&logoColor=white)
