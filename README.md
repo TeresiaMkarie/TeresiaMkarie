@@ -48,6 +48,8 @@ I’m a software developer, AI-native product builder, and technical content cre
 ### 🎯 Current Focus
 - Currently pursuing a **Machine Learning pathway** through a DataCamp scholarship.
 - Building my skills in **Python, data science, and machine learning**.
+- In a 1 month Solana Bootcamp hosted by Dev3pack
+  
   
 ---
 
