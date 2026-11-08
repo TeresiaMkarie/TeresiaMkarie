@@ -40,7 +40,6 @@ I’m a software developer, AI-native product builder, and technical content cre
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=TeresiaMkarie&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TeresiaMkarie&theme=dark&hide_border=false)
 ![](https://streak-stats.demolab.com/?user=TeresiaMkarie&theme=dark&hide_border=false&timezone=Africa/Nairobi&v=2)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeresiaMkarie&theme=dark&hide_border=false&layout=compact)
 
